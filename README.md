@@ -1,4 +1,4 @@
-# Coursera_Capstone: IBM Data Science Professional Certificate Capstone Project 
+# IBM Data Science Professional Certificate Capstone Project 
 
 This is a final project of [Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science#courses) offered by IBM and Coursera. The program consists 9 courses providing me practice in the IBM Cloud using real data science tools and real-world data sets with a wide array of data science topics including: 
 - What is Data Science?
